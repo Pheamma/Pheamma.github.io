@@ -2,14 +2,11 @@ h1{
   color: blue;
   text-align: center;
   font: arial;
+  background-color: LightGray;
 }
 p{
   text-align: center;
   font: arial;
-}
-head{
   background-color: LightGray;
 }
-body{
-  background-color: LightGray;
-}
+

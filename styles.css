@@ -10,50 +10,23 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#link1{
+.repository{
   border-radius: 25px;
   background-color: #F39FF3;
-  padding: 10px 25px;
+  padding: 10px 20px;
   text-align: center;
   display: inline-block;
   width: 50%;
   height: 50%;
-}
-#link2{
-  border-radius: 25px;
-  background-color: #F39FF3;
-  padding: 10px 25px;
-  text-align: center;
-  display: inline-block;
-  width: 50%;
-  height: 50%;
+  left-margin: 30%;
+  right-margin: 30%;
 }
 
-#link3{
-  border-radius: 25px;
-  background-color: #F39FF3;
-  padding: 10px 25px;
-  text-align: center;
-  display: inline-block;
-  width: 50%;
-  height: 50%;
+.repository:hover{
+  transform: scaleY(1.5);
+  transform: scaleY(1.5);
+  transform-origin: bottom;
   
-}
-#link1:hover{
-  transform: scaleY(1.5);
-  transform: scaleY(1.5);
-  transform-origin: bottom;
-}
-#link2:hover{
-  transform: scaleY(1.5);
-  transform: scaleY(1.5);
-  transform-origin: bottom;
-}
-#link3:hover{
-   transform: scaleY(1.5);
-  transform: scaleY(1.5);
-  transform-origin: bottom;
-}
 #links{
   margin: 0 auto;
   position: relative;

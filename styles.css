@@ -40,13 +40,19 @@
   
 }
 #link1:hover{
-  padding 15px 30px;
+  transform: scaleY(1.5);
+  transform: scaleY(1.5);
+  transform-origin: bottom;
 }
 #link2:hover{
-  padding 15px 30px;
+  transform: scaleY(1.5);
+  transform: scaleY(1.5);
+  transform-origin: bottom;
 }
 #link3:hover{
-  padding 15px 30px;
+   transform: scaleY(1.5);
+  transform: scaleY(1.5);
+  transform-origin: bottom;
 }
 #links{
   margin: 0 auto;

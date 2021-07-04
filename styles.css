@@ -1,4 +1,15 @@
 h1{
-  color:blue;
-  text-align:center;
+  color: blue;
+  text-align: center;
+  font: arial;
+}
+p{
+  text-align: center;
+  font: arial;
+}
+head{
+  background-color: LightGray;
+}
+body{
+  background-color: LightGray;
 }

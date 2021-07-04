@@ -1,16 +1,17 @@
 #title{
-  color: blue;
+  color: white;
   text-align: center;
-  font: arial;
-  background-color: lightgray;
+  font-family: arial, helvetica, sans-serif;
 }
 #para1 {
+  color: white;
   text-align: center;
-  font: arial;
-  background-color: lightgray;
+  font-family: arial, helvetica, sans-serif;
 }
 
 #links{
+  border-radius: 25px;
+  color: white;
   background-color: #F39FF3;
   padding: 10px 25px;
   text-align: center;

@@ -31,7 +31,7 @@
   text-align: center;
   display: inline-block;
 }
-.center{
+#links{
   position: absolute;
   margin: auto;
   width: 50%;

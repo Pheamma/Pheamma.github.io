@@ -22,8 +22,8 @@
 }
 
 .repository:hover{
-  transform: scaleY(1.5);
-  transform: scaleY(1.5);
+  transform: scaleY(1.25);
+  transform: scaleY(1.25);
   transform-origin: bottom;
   
 #links{

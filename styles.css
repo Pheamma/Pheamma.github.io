@@ -18,8 +18,7 @@
   display: inline-block;
   width: 50%;
   height: 50%;
-  left-margin: 30%;
-  right-margin: 30%;
+  margin: 0 auto;
 }
 
 .repository:hover{

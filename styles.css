@@ -24,6 +24,15 @@
   text-align: center;
   display: inline-block;
 }
+#link1:hover{
+  padding 15px 30px;
+}
+#link2:hover{
+  padding 15px 30px;
+}
+#link3:hover{
+  padding 15px 30px;
+}
 #link3{
   border-radius: 25px;
   background-color: #F39FF3;

@@ -20,7 +20,12 @@
   display: inline-block;
   width: 50%;
   height: 50%;
-  margin: 0 auto;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .repository:hover{
@@ -46,9 +51,4 @@ a:link{
   font-family: Arial, Helvetica, sans-serif;
   color: white;
   text-decoration: none;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  }

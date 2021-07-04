@@ -11,6 +11,8 @@
 }
 
 .repository{
+  border-style: solid;
+  border-color: #783378;
   border-radius: 25px;
   background-color: #F39FF3;
   padding: 10px 20px;

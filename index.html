@@ -3,6 +3,17 @@
 <head>
  	<link rel="stylesheet" href="styles.css">
 	<meta content='width=device-width, initial-scale=1' name='viewport'/>
+  <script>
+    function toggleMenu() {
+      var menuBox = document.getElementById("para2");    
+      if(menuBox.style.display == "block") {
+      menuBox.style.display = "none";
+  }
+  else { 
+    menuBox.style.display = "block";
+  }
+}
+  </script>
 </head>
 <body>
 <h1 id="title">My portfolio</h1>
@@ -20,12 +31,12 @@
 	</div>
 </div>
   <div id="menu">
-    <p id="para2">
-        <b>A little resume</b>
-      </p>
-    <div id="myself">
-      
-      <p id="para3">
+    <button id="menu_button" type="button" onclick="toggleMenu()">
+    About me
+     </button>
+    <div id="myself">  
+      <p id="para2" style ="display: block">
+        
         I'm an informatics student engineer<br>
         with a passion for programming.<br>
         I'm a fairly creative person, <br>
@@ -39,9 +50,8 @@
         - C<br>
         - Javascript <br>
         - Python <br>
-        - SQL <br>
-       
-      </p>
+        - SQL <br>     
+      </p>   
     </div>
     </div>  
 </body>

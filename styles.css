@@ -31,7 +31,7 @@
   text-align: center;
   display: inline-block;
 }
-#links{
+.center{
   margin: auto;
   width: 50%;
 }

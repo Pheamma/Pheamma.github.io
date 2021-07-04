@@ -25,11 +25,16 @@
   transform: translate(-50%, -50%);
 
 }
-.repository:link{
+.rep_link:link{
   font-family: Arial, Helvetica, sans-serif;
   color: white;
   text-decoration: none;
   }
+.rep_link:visited{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-decoration: none;
+}
 
 .repository{
   border-style: solid;

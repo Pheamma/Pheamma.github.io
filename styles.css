@@ -19,6 +19,8 @@
   font-family: Arial, Helvetica, sans-serif;
   color: white;
   text-decoration: none;
+  width: 50%;
+  height: 50%;
 }
 #link2{
   border-radius: 25px;
@@ -29,6 +31,21 @@
   font-family: Arial, Helvetica, sans-serif;
   color: white;
   text-decoration: none;
+  width: 50%;
+  height: 50%;
+}
+
+#link3{
+  border-radius: 25px;
+  background-color: #F39FF3;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-decoration: none;width: 50%;
+  height: 50%;
+  
 }
 #link1:hover{
   padding 15px 30px;
@@ -39,24 +56,11 @@
 #link3:hover{
   padding 15px 30px;
 }
-#link3{
-  border-radius: 25px;
-  background-color: #F39FF3;
-  padding: 10px 25px;
-  text-align: center;
-  display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-  text-decoration: none;
-  
-}
 #links{
   position: absolute;
-  top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -50px;
-    width: 50%;
-    height: 50%;
+  top-margin: 20%;
+  left-margin: 20%;
+  bottom-margin: 50%;
+  right-margin: 20%;
 }
 

@@ -1,5 +1,6 @@
 body{
   background-image: url("background-image.jpg");
+  background-color: #cccccc;
 }
 #title{
   color: white;

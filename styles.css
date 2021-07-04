@@ -10,3 +10,11 @@
   background-color: lightgray;
 }
 
+a:link{
+  background-color: #F39FF3;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+  
+}
+

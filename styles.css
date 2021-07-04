@@ -32,6 +32,7 @@
   display: inline-block;
 }
 .center{
+  position: absolute;
   margin: auto;
   width: 50%;
 }

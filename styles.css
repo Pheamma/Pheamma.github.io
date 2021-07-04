@@ -13,7 +13,27 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#links{
+#link1{
+  border-radius: 25px;
+  
+  background-color: #F39FF3;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  
+}
+#link2{
+  border-radius: 25px;
+  
+  background-color: #F39FF3;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  
+}
+#link3{
   border-radius: 25px;
   
   background-color: #F39FF3;

@@ -30,6 +30,20 @@
   font-style: italic;
 }
 
+#about_me_button{
+  border-width: 1px;
+  padding: 5px 25px;
+  border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#projects_button{
+  border-width: 1px;
+  padding: 5px 25px;
+  border-radius: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
 #menu{
   text-align: center;
   width: 80%;

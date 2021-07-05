@@ -20,7 +20,7 @@
 
 #repositories{
   margin-top: 20px;
-  margin-left: 120px;
+  margin-left: 40%;
   display: none;
   text-align: left;
 }
@@ -32,6 +32,6 @@
 
 #menu{
   text-align: center;
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
 }

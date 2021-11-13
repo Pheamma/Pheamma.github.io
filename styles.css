@@ -49,8 +49,7 @@ body {
 
 #aboutMePage {
   display: none;
-  margin-top: 10%;
-  margin-left: 50%;
+  text-align:center;
 }
 
 #contactsPage {

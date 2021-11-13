@@ -9,5 +9,17 @@ body
 		left: 0;
 		overflow-x: hidden;
 		transition: 0.5s;
+		padding: 60px;
+	}
+	
+	.sidenav a  {
+		text-decoration: none;
+		font-size: 20px;
+		color: gray;
+		display: block;
+		transition: 0.3s;
+	}
+	.sidenav a:hover {
+  		color: #f1f1f1;
 	}
 }

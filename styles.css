@@ -1,5 +1,5 @@
 body {
-  
+  background: darkgray;
 }
 .sidenav {
     height: 100%;
@@ -10,7 +10,6 @@ body {
     left: 0;
     overflow-x: hidden;
     transition: 0.5s;
-    padding: 60px;
   }
 
   .sidenav a {
@@ -19,12 +18,14 @@ body {
     color: gray;
     display: block;
     transition: 0.3s;
+    padding: 20px;
   }
 
   .sidenav a:hover {
     color: white;
   }
 
-  .menuBtn:hover {
+  #menuBtn {
+    color:white;
     cursor: pointer;
   }

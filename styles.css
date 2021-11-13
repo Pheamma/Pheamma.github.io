@@ -45,23 +45,26 @@ body {
   display: block;
   margin-top: 20%;
   margin-left: 50%;
+  transition:0.3s;
 }
 
 #aboutMePage {
   display: none;
   text-align:center;
+  transition:0.3s;
 }
 
 #contactsPage {
   display: none;
-  margin-top: 20%;
-  margin-left: 50%;
+  text-align:center;
+  transition:0.3s;
 }
 
 #projectsPage {
   display: none;
   margin-top: 20%;
   margin-left: 50%;
+  transition:0.3s;
 }
 
 .contactspage img {

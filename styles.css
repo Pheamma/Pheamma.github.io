@@ -64,3 +64,8 @@ body {
   margin-top: 30%;
   margin-left: 50%;
 }
+
+img {
+  width=20px;
+  height=20px;
+}

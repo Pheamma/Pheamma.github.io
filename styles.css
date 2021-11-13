@@ -43,25 +43,25 @@ body {
 
 #homepagePage {
   display: block;
-  margin-top: 30%;
+  margin-top: 20%;
   margin-left: 50%;
 }
 
 #aboutMePage {
   display: none;
-  margin-top: 30%;
+  margin-top: 20%;
   margin-left: 50%;
 }
 
 #contactsPage {
   display: none;
-  margin-top: 30%;
+  margin-top: 20%;
   margin-left: 50%;
 }
 
 #projectsPage {
   display: none;
-  margin-top: 30%;
+  margin-top: 20%;
   margin-left: 50%;
 }
 
